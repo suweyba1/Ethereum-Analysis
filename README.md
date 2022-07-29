@@ -1,0 +1,2 @@
+# Ethereum-Analysis
+This coursework's objective is to use the methods learned in Big Data Processing module's first part to analyse the entire set of transactions that have taken place on the Ethereum network, from the first transactions in August 2015 until June 2019. I developed a number of Map/Reduce or Spark programmes to carry out various computations. I submitted a report with my findings and a description of how I came to them.
